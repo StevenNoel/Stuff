@@ -6,5 +6,5 @@ I'm currently using this in my Microsoft MDT task sequence.  One of the last tas
 *Note*:  You will need to setup your Teams Web Hook prior to setting up this script. Use steps 1-7 from https://kb.itglue.com/hc/en-us/articles/115001798191-Setting-up-Microsoft-Teams-webhook-notifications.
 
 
-#Sample Output
+# Sample Output
 ![Teams-Notification](https://github.com/StevenNoel/Stuff/blob/master/Microsoft/Teams/Teams-Notification.PNG)
