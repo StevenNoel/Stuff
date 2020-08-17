@@ -1,5 +1,5 @@
 # Ecowitt Temperature/Gateway Sensor - Automation
-This script can be used to query the https://ecowitt.net website that stores Sensor data for a range of devices.  
+This script (Ecowitt Powershell Automation API) can be used to query the https://ecowitt.net website that stores Sensor data for a range of devices.  
 
 Specifically in my use case, I have 2 sensors.  One in separate Freezers that will alert me if temperates go above a certain threshold.  For some reason Ecowiitt can't alert on low battery or loss of WIFI in their sensors.
 This script will address those two concerns, along with watever other possible scenarios you can come up with.
